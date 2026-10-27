@@ -77,3 +77,10 @@ To explore or edit the dashboard in Power BI Desktop, the original `.pbix` file 
 
 This project is part of a data analytics portfolio demonstrating dashboard reporting and business-focused data visualization using Power BI.
 b
+
+
+<img width="1315" height="730" alt="Page1" src="https://github.com/user-attachments/assets/57ca24f2-047b-4051-b906-4848fcf181ea" />
+<img width="837" height="862" alt="page2 3" src="https://github.com/user-attachments/assets/9774c567-61be-4467-8167-021fecca9c4b" />
+<img width="791" height="862" alt="page4 5" src="https://github.com/user-attachments/assets/12d14027-f145-4c2d-9432-140d4bdbd647" />
+
+
